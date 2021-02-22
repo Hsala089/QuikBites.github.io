@@ -4,11 +4,11 @@
 
 
 
-*1. Kyle J. Dulce - 300169731<br/>
-*2. Michias Shiferaw - 300188168<br/>
-*3. Qassim Alkassir - 8883657<br/>
-*4. Hafsa Salad - 300163484<br/>
-*5. Mohamed Ali - 300148252<br/>
-*6. Malika Issoufou - 300197018<br/>
+*1. Kyle J. Dulce - <br/>
+*2. Michias Shiferaw - <br/>
+*3. Qassim Alkassir - <br/>
+*4. Hafsa Salad - <br/>
+*5. Mohamed Ali - <br/>
+*6. Malika Issoufou - <br/>
 
 
